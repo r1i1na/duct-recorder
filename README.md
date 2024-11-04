@@ -1,7 +1,7 @@
 # duct-recorder
 A rubbish duct recorder.
 
-It only have a UI, no actual function.
+It only has a UI (Not friendly), no actual function.
 
 For entertainment only.
 
